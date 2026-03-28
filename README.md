@@ -137,4 +137,9 @@ Quantity: 10
 
 ---  
 ## 🔄 Program Flow Diagram 
-<img width="2048" height="898" alt="diagrama john" src="https://github.com/user-attachments/assets/1850c662-d03d-456d-bc6d-5d3a8f735c2b" />
+<img width="2048" height="898" alt="diagrama john" src="https://github.com/user-attachments/assets/1850c662-d03d-456d-bc6d-5d3a8f735c2b" /> 
+
+---
+## Repository 
+
+https://github.com/Johns8729/PYTHON_WEEK-3_ASSIGNMENT/tree/main
